@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+     Your changes here
+     =======
+     Changes from the remote repository here
+     >>>>>>> branch-name
 <div align="center">
   <h1 align="center" style="display: block; font-size: 3em; font-weight: bold; margin-block-end: 1em;"><strong>🎉 Welcome to the E-nyanjyoti Platform! 🌟</strong></h1>
   <P align="center"> This repository is part of <b>GirlScript Summer of Code 2024 Extended Edition & hacktoberfest 2024!</b> 🚀</p>
@@ -284,8 +289,12 @@ Feel free to ask, and don’t hesitate to raise your problem. They are always re
     </td>
   </tr>
 </table>
+ 
 
 
 
 
 Happy Coding! 😄
+=======
+# abvc
+>>>>>>> 0f6f22035e140976674faa6c9cf722a0d341fdf1
